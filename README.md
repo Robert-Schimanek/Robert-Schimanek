@@ -7,7 +7,7 @@
 
 - 🌱 I'm passionate about sustainable energy and advanced software/hardware development
 
-- 👨‍💻 All of my projects are available at [https://www.robertschimanek.com](https://www.robertschimanek.com)
+- 👨‍💻 All of my projects are available at [https://robertschimanek.com](https://robertschimanek.com)
 
 - 📝 I regularly write articles on [https://robertschimanek.com/blog](https://robertschimanek.com/blog)
 
