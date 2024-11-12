@@ -92,4 +92,4 @@
 
 <h3 align="left">Support:</h3>
 <p>If you find my work helpful, consider supporting me:</p>
-<a href="https://github.com/sponsors/Robert-Schimanek" target="_blank"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors"></a>
+<a href="https://paypal.me/PayRobertSchimanek" target="_blank"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="PayPal Link"></a>
