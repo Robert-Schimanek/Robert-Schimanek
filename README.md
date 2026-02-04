@@ -35,12 +35,16 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 
+<!-- Deployment -->
+<a href="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="kubernetes" width="40" height="40"/> </a>
+
 <!-- Database -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="influxdb" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://valkey.io" target="_blank" rel="noreferrer"> <img src="https://github.com/valkey-io/valkey-io.github.io/blob/main/static/img/Valkey-logo.svg" alt="valkey" width="40" height="40"/> </a>
+
 <!-- Data Visualization -->
 <a href="https://www.chartjs.org" target="blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 <a href="https://d3js.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
